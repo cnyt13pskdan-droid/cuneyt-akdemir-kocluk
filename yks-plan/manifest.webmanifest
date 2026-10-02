@@ -1,0 +1,14 @@
+{
+  "name": "YKS Ders Çalışma Programı Robotu",
+  "short_name": "YKS Plan",
+  "lang": "tr",
+  "start_url": "./yks-plan.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#4f46e5",
+  "background_color": "#f4f7ff",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
